@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/moazzam/Desktop/Assesment/src/test/java/Test/loginPageTest.java">
+        <classes>
+            <class name="Test.loginPageTest">
+            </class>
+        </classes>
+    </test>
+</suite>
